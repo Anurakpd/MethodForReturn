@@ -1,3 +1,5 @@
+package Work;
+
 public class Nonstatic {
     int a = 50;
     int b = 30;
