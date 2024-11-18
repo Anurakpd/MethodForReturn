@@ -1,0 +1,28 @@
+Java types
+
+    1. Class
+    2. Interface
+    3. Enum
+    4. Annotation
+
+
+Interface
+
+    1. Interface is a java type
+    2. Interface is a purely abstract and having abstract body
+    3. All the var ---> static n final
+    4. Method ---> public and abstract
+    5. we can not create obj
+    6. we can not create the constructor
+    7. We can create a body for static methods
+
+
+interface interfaceClass
+
+{
+
+    public void demo();
+
+
+}
+

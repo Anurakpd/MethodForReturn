@@ -1,0 +1,13 @@
+
+Class A ----> class ---> method ---> body
+
+Class B ---> class
+
+interface ---> implement
+
+
+interface A ---> methodA --->
+
+interface B ---> methodB
+
+class ---> A,B ---> methodA and methodB
