@@ -1,0 +1,8 @@
+Encapsulation ---> Wrapping up of data member into a single unit
+
+Declare the data member as a private and restrict the direct access from outside of class and provide indirect access
+by using getters and setters
+
+Getter ---> return the value ---> return type ---> other void
+
+setter ---> void ---> send value to global var

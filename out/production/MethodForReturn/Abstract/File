@@ -1,0 +1,26 @@
+Class Demo ---> Concrete class
+    {
+
+        Public static void stimulator()  ---> Concrete Methods
+        {
+
+            print ---> 45;
+
+        }
+
+   }
+
+Abstract Class Demo ---> Abstract class
+    {
+
+        Abstract void stimulator();  ---> Abstract Method
+
+   }
+
+  1. Any class or method declared with abstract keyword the it will be abstarct class or abstract method
+  2. We can not Create object in Abstract class ---> done
+  3. We can not create abstract method as static, final and private ---> done
+  4. Abstract class we can create a constructor ---> done
+  5. Abstract class ---> Concrete methods and Abstract methods ---> done
+  6. Abstract method can not have the body ---> done
+

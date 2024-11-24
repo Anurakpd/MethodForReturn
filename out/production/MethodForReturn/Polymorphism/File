@@ -1,0 +1,25 @@
+Animal class
+    noise()
+
+Dog class extends Animal
+    noise() --->MethodOverriding
+
+Cat class extends Animal
+    noise() --->MethodOverriding
+
+Stimulator class
+    ansim(Animal a1){
+        a1.noise(); ---> polymorphism
+    }
+
+class MainClass
+    main {
+
+         Dog d1 = new Dog();
+         Cat c1 = new Cat();
+
+         Stimulator.ansim(d1);
+         Stimulator.ansim(c1);
+    }
+1. INheritence ---> extends
+2. Access specifiers ---> Public , static
