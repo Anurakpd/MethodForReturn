@@ -1,0 +1,5 @@
+private  ---> We can access the data member within the class
+package/default ---> we can access the data member with in the class and within package
+protected ---> we can access the data member with in the class and within package and
+                out side of the package but it should have inheritence
+public ---> we can access the data member with in the class and within package and out side of the package
